@@ -1,2 +1,2 @@
-# Preanalisys
+# Preanalysis
 Preanalysis of optical tweezers data
