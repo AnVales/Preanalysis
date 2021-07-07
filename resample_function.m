@@ -1,4 +1,6 @@
 % RESAMPLE FUNCTION %
+% AUTHOR: ANVALES : https://github.com/AnVales
+% DATE: 24/05/2021
 
 % Only some data is saved
 

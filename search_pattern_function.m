@@ -1,4 +1,6 @@
 % SEARCH PATTERN FUNCTION %
+% AUTHOR: ANVALES : https://github.com/AnVales
+% DATE: 21/05/2021
 
 % Some data of the path is saved
 

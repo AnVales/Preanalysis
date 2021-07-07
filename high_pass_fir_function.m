@@ -1,8 +1,8 @@
 % TITLE: HIGH PASS FIR FILTER
-% AUTHOR: ÁNGELA VALES : https://github.com/AnVales
+% AUTHOR: ANVALES : https://github.com/AnVales
 % DATE: 21/05/2021
 
-% Filter the noise with high pass fir filter
+% Filter the noise with high pass fir filter 
 
 function [output_d] = high_pass_fir_function(input_t,input_frecuency)
 

@@ -1,4 +1,6 @@
-% DIRECTION FORCE FUNCTION %
+% TITLE: DIRECTION FORCE FUNCTION
+% AUTHOR: ANVALES : https://github.com/AnVales
+% DATE: 01/06/2021
 
 % Determine in which direction the identation took place
 

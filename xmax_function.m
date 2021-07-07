@@ -1,6 +1,7 @@
 % TITLE: X MAX FUNCTION
-% AUTHOR: ÁNGELA VALES 
+% AUTHOR: ANVALES : https://github.com/AnVales
 % DATE: 01/06/2021
+
 % Find the fmax
 
 function [ouput_xmax, output_xmax_list] = xmax_function(input_sensor_bead, input_cycle_data)

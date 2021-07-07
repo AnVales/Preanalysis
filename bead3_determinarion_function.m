@@ -1,6 +1,9 @@
-% BEAD DETERMINATION FUNCTION %
+% TITLE: BEAD DETERMINATION FUNCTION
+% AUTHOR: ANVALES : https://github.com/AnVales
+% DATE: 01/06/2021
 
 % Determine which bead was the sensor and which was the identator 
+% Not optimized but works
 
 function [output_force_bead, output_sensor_bead, output_nucleolo_bead] = bead3_determination_function(input_direction_force)
 

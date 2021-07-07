@@ -1,6 +1,8 @@
 % TITLE: AVERAGE OF FOURIER TRANSFORMS
-% AUTHOR: ÁNGELA VALES : https://github.com/AnVales
+% AUTHOR: ANVALES : https://github.com/AnVales
 % DATE: 21/05/2021
+
+% Average of fast fourier transforms final
 
 function [output_f_fourier,output_P1_fourier, output_cycle_data] = fourier_mean_function_final(input_t,input_sensor_bead, input_frecuecy)
 

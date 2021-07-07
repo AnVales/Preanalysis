@@ -1,5 +1,5 @@
 % TITLE: G_PRIMA_FUNCTION
-% AUTHOR: ÁNGELA VALES : https://github.com/AnVales
+% AUTHOR: ANVALES : https://github.com/AnVales
 % DATE: 01/06/2021
 
 % Calculate G'

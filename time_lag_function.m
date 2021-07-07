@@ -1,6 +1,7 @@
 % TITLE: TIME LAG FUNCTION
-% AUTHOR: ÁNGELA VALES 
+% AUTHOR: ANVALES : https://github.com/AnVales
 % DATE: 21/05/2021
+
 % It looks for the time lag between the sensor bead and force bead
 
 function [output_time_lag, output_time_lag_list] = time_lag_function(input_force_bead, input_sensor_bead, input_time, input_cycle_data)

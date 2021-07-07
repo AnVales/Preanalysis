@@ -1,5 +1,5 @@
 % TITLE: LOW PASS FIR FUNCTION
-% AUTHOR: ÁNGELA VALES : https://github.com/AnVales
+% AUTHOR: ANVALES : https://github.com/AnVales
 % DATE: 21/05/2021
 
 % Filter the noise with a low pass fir filter

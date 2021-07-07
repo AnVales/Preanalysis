@@ -1,3 +1,9 @@
+% TITLE: VISCOSITY_PLOT
+% AUTHOR: ANVALES : https://github.com/AnVales
+% DATE: 10/06/2021
+
+% Plot the viscosity
+
 clc
 clear all
 close all
