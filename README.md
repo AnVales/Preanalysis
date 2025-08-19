@@ -1,6 +1,6 @@
 # Preanalysis – Análisis de datos de pinzas ópticas
 
-Este proyecto corresponde a un trabajo real desarrollado como parte de mi Trabajo Fin de Máster (TFM) en física experimental. Su objetivo es el preprocesamiento, análisis y visualización de datos de pinzas ópticas, para estudiar propiedades mecánicas y dinámicas de partículas a nivel microscópico.
+Este proyecto corresponde a un trabajo real desarrollado como parte de mi Trabajo Fin de Máster (TFM) en biología computacional. Su objetivo es el preprocesamiento, análisis y visualización de datos de pinzas ópticas, para estudiar propiedades mecánicas y dinámicas de partículas a nivel microscópico.
 
 Principales funcionalidades:
 
