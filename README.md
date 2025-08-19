@@ -21,4 +21,3 @@ Este proyecto corresponde a un trabajo real desarrollado como parte de mi TFM en
 💾 Guardado automático de resultados para análisis posterior.
 
 Con este proyecto se facilita el estudio reproducible de experimentos con pinzas ópticas y la interpretación de propiedades mecánicas a escala micro.
-
