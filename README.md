@@ -1,4 +1,4 @@
-#🔬 Preanalysis – Datos de Pinzas Ópticas
+# 🔬 Preanalysis – Datos de Pinzas Ópticas
 
 Este proyecto corresponde a un trabajo real desarrollado como parte de mi TFM en biología computacional. Permite el preprocesamiento y análisis de datos de pinzas ópticas, para estudiar propiedades mecánicas y dinámicas de partículas a nivel microscópico.
 
