@@ -1,24 +1,24 @@
-# Preanalysis – Análisis de datos de pinzas ópticas
+#🔬 Preanalysis – Datos de Pinzas Ópticas
 
-Este proyecto corresponde a un trabajo real desarrollado como parte de mi Trabajo Fin de Máster (TFM) en biología computacional. Su objetivo es el preprocesamiento, análisis y visualización de datos de pinzas ópticas, para estudiar propiedades mecánicas y dinámicas de partículas a nivel microscópico.
+Este proyecto corresponde a un trabajo real desarrollado como parte de mi TFM en biología computacional. Permite el preprocesamiento y análisis de datos de pinzas ópticas, para estudiar propiedades mecánicas y dinámicas de partículas a nivel microscópico.
 
-Principales funcionalidades:
+##⚡ Funcionalidades principales
 
-Importación y corrección de datos experimentales de pinzas ópticas.
+📥 Importación y corrección de datos experimentales.
 
-Filtrado y procesamiento de señales (low-pass y high-pass FIR, remuestreo).
+🔄 Filtrado de señales (low-pass y high-pass FIR, remuestreo).
 
-Análisis de fuerza y desplazamiento en múltiples traps y beads, incluyendo cálculo de fuerza máxima (fmax) y desplazamiento máximo (xmax).
+🧲 Análisis de fuerza y desplazamiento en múltiples traps y beads.
 
-Transformadas de Fourier para amplitud y fase de la fuerza.
+📊 Transformadas de Fourier (amplitud y fase).
 
-Cálculo de propiedades mecánicas: módulo elástico (G'), módulo viscoso (G'') y viscosidad.
+🧪 Cálculo de propiedades mecánicas: módulo elástico (G′), módulo viscoso (G″) y viscosidad.
 
-Visualización: gráficos de fuerza y desplazamiento, histogramas y comparación de datos filtrados vs sin filtrar.
+📈 Visualización de datos: gráficos de fuerza/desplazamiento y histogramas.
 
-Automatización de patrones y análisis temporal: detección de beads, cálculo de retardos temporales (time-lag) y derivadas.
+⏱️ Análisis temporal: detección de beads y cálculo de retardos (time-lag).
 
-Guardado de resultados para análisis posterior.
+💾 Guardado automático de resultados para análisis posterior.
 
-El proyecto permite estudiar de manera reproducible los experimentos con pinzas ópticas y facilita la interpretación de las propiedades mecánicas de partículas a escala micro.
+Con este proyecto se facilita el estudio reproducible de experimentos con pinzas ópticas y la interpretación de propiedades mecánicas a escala micro.
 
