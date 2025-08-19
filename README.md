@@ -2,7 +2,7 @@
 
 Este proyecto corresponde a un trabajo real desarrollado como parte de mi TFM en biología computacional. Permite el preprocesamiento y análisis de datos de pinzas ópticas, para estudiar propiedades mecánicas y dinámicas de partículas a nivel microscópico.
 
-##⚡ Funcionalidades principales
+## ⚡ Funcionalidades principales
 
 📥 Importación y corrección de datos experimentales.
 
